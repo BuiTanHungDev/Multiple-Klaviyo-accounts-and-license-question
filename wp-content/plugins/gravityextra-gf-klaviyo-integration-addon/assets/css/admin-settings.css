@@ -1,0 +1,7 @@
+/* Gravity Form version is less than 2.5 */
+.disable_gf_custom select.key option[value="gf_custom"] {
+    display: none;
+}
+
+/* Gravity Form version is 2.5 or greater */
+/* Do some thing */
